@@ -1,0 +1,24 @@
+{
+    "smartphones": [
+        {
+            "id": 1,
+            "title": "iPhone 14",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 1000,
+            "discount": 13,
+            "rating": 5,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail":"",
+            "images": [
+    
+                "1.jpg",
+                "2.jpg"
+            ]
+    
+        },
+        {
+    
+        }
+    ]
+}
